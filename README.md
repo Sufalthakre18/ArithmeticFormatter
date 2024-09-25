@@ -1,2 +1,2 @@
 # ArithmeticFormatter
- Solution for Arithmetic Formatter
+Solution for Arithmetic Formatter
